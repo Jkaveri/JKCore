@@ -6,6 +6,8 @@
 *.user
 *.userosscache
 *.sln.docstates
+tools/Cake/
+tools/packages.config.md5sum
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
